@@ -1,5 +1,6 @@
 # react-projects
 
+- Timer
 - Modal
 - Tool tip
 - Accordion
@@ -9,3 +10,5 @@
 - Infinite Scroll
 - Chess Board Game
 - Snake & Ladder Game
+- Google docs
+- Google sheets
